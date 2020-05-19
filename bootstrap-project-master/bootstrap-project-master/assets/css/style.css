@@ -1,0 +1,123 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+
+.color-1{
+	color: #26a3dc !important;
+}
+.bg-1{
+	background: #26a3dc !important;
+}
+
+.font-pt{
+	font-family: 'PT Sans', sans-serif;
+}
+
+
+
+
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    font-size: 35px;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 18px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color: #000;
+}
+
+.search-btn{
+	background: #000;
+	color: #fff;
+}
+.search-btn:hover{
+	color: #000;
+	background: #fff;
+}
+
+header{
+	margin: 0px auto;
+	/*height: 600px;*/
+	/*width: 1250px;*/
+	overflow: hidden;
+}
+.carousel-inner .carousel-item{
+	/*height: 600px !important;*/
+}
+
+.our-text{
+	color: #fff;
+	position: absolute;
+	top: 0;
+	left: 0;
+	/*font-size: 30px;*/
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.3);
+	text-align: center;
+}
+
+.our-text h5{
+	font-size: 70px;
+	padding-top: 380px; 
+}
+.our-text p{
+	font-size: 25px;
+}
+.our-text  a{
+	font-size: 20px;
+	padding: 8px 50px;
+	background: #ff5722;
+	color: #fff;
+	border: 0px;
+}
+
+.page-link {
+  
+    color: #ffffff;
+    background-color: #26a3dc;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+   
+}
+
+.pagination .active a{
+	background: #000 !important;
+}
+
+.footer{
+	background: #000;
+	color: #fff;
+	margin-top: 50px;
+
+}
+.footer h1{
+	font-size: 15px;
+	margin: 25px 0;
+}
+.footer p{
+	font-size: 12px;
+}
+.footer-image img{
+	width: 150px;
+}
+.copyright{
+	margin-bottom: -80px;
+ 	text-align: center;
+ 	font-size: 16px;
+ 	padding-bottom: 20px;
+}
+
+
+.footer hr{
+	margin-top: 10px;
+ 	background-color: #ccc;
+}
+
+
